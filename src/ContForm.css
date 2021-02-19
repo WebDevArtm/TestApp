@@ -1,0 +1,31 @@
+.input{
+  width: 450px;
+  padding: 20px;
+  margin-bottom: 16px;
+  border: 1px solid #ccc;
+  border-radius: 16px;
+  font-weight: 500;
+  box-sizing: border-box;
+  resize: none;
+}
+
+.button{
+  background-color: #fff;
+  padding: 18px 80px 14px;
+  border-radius: 32px;
+  font-family: Circle;
+  font-weight: 700;
+  color: #000;
+  border: none;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+
+.div{
+  display: block;
+  color: #fff;
+  width: 450px;
+  margin-left: auto;
+  margin-right: auto;
+}
